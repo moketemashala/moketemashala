@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @moketemashala
 - 👀 I’m interested in business analytics and data science
-- 🌱 I’m currently learning data science
+- 🌱 I’m currently studying Master of Science in Business Analytics at Hult Internatinal Business School
 - 💞️ I’m looking to collaborate on data-driven decision making
 - 📫 You can reach me at mmashala@student.hult.edu
 
