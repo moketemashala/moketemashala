@@ -2,7 +2,7 @@
 - 👀 I’m interested in business analytics and data science
 - 🌱 I’m currently studying Master of Science in Business Analytics at Hult Internatinal Business School
 - 💞️ I’m looking to collaborate on data-driven decision making
-- 📫 You can reach me at mmashala@student.hult.edu
+- 📫 You can reach me at mokete.mashala@gmail.com
 
 <!---
 moketemashala/moketemashala is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
